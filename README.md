@@ -18,14 +18,14 @@ Ubuntu/Debian 服务器基础安全加固脚本，用于配置 UFW 防火墙和 
 在 Ubuntu/Debian 服务器上执行：
 
 ```bash
-wget https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/setup-server-security/main/setup_server_security.sh
+wget https://raw.githubusercontent.com/sanrokamlan-prog/safevps/main/setup_server_security.sh
 sudo bash setup_server_security.sh
 ```
 
 如果你想直接一行执行：
 
 ```bash
-wget -O setup_server_security.sh https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/setup-server-security/main/setup_server_security.sh && sudo bash setup_server_security.sh
+wget -O setup_server_security.sh https://raw.githubusercontent.com/sanrokamlan-prog/safevps/main/setup_server_security.sh && sudo bash setup_server_security.sh
 ```
 
 > 上传到 GitHub 后，请把上面 URL 中的 `YOUR_GITHUB_USERNAME` 替换为你的 GitHub 用户名。
